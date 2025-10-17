@@ -24,10 +24,8 @@ Built with **Python, Flask, WTForms, and Bootstrap**, featuring a modern black-a
 ---
 
 ## 🖥️ Preview
-![App Screenshot](screenshot.png)
-> _Example interface of the Morse Code Converter app_
+<img width="1912" height="941" alt="image" src="https://github.com/user-attachments/assets/a3123e8a-777e-4647-a548-0b17b6134405" />
 
----
 
 ## ⚙️ Installation & Setup
 
